@@ -1,0 +1,8 @@
+<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
+  <sitecore>
+    <settings>
+      <setting name="TrimVersions.MaxVersions" value="9"/>
+      <setting name="TrimVersions.TimeOfDayToRun" value="2:00"/>
+    </settings>
+  </sitecore>
+</configuration>
